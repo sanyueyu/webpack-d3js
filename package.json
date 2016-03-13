@@ -1,0 +1,28 @@
+{
+  "name": "webpack-d3js",
+  "version": "1.0.0",
+  "description": "webpack,dejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanyueyu/webpack-d3js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanyueyu/webpack-d3js/issues"
+  },
+  "homepage": "https://github.com/sanyueyu/webpack-d3js#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "~2.10.0",
+    "webpack": "~1.12.14",
+    "webpack-dev-server": "~1.14.1"
+  },
+  "dependencies": {
+    "d3": "^3.5.16"
+  }
+}
