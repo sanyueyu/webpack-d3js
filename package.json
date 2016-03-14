@@ -18,7 +18,14 @@
   },
   "homepage": "https://github.com/sanyueyu/webpack-d3js#readme",
   "devDependencies": {
+    "babel-core": "~6.7.2",
+    "babel-loader": "~6.2.4",
+    "css-loader": "~0.23.1",
     "html-webpack-plugin": "~2.10.0",
+    "less": "~2.6.1",
+    "less-loader": "~2.2.2",
+    "postcss-loader": "~0.8.2",
+    "style-loader": "~0.13.0",
     "webpack": "~1.12.14",
     "webpack-dev-server": "~1.14.1"
   },
