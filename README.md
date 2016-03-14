@@ -1,4 +1,4 @@
 # webpack-d3js
 webpack,dejs,example
 demo:
-<img src="http://v2.freep.cn/3tb_160313231720jbkm512293.png" alt="">
+<img src="http://gtms02.alicdn.com/tps/i2/TB12WbwLVXXXXXPapXXBzHSHXXX-990-361.png" alt="">
