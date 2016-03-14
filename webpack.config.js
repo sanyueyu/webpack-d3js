@@ -8,8 +8,8 @@ module.exports = {
     './index.js'
   ],
   output: {
-    filename: 'bundle.js',
-    publicPath: '/dist/'
+    filename: './dist/bundle.js',
+    publicPath: './dist/'
   },
   plugins: [
     new webpack.HotModuleReplacementPlugin()
