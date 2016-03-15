@@ -54,7 +54,7 @@
 /******/ 	
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "b24aaeec66922b2b6d0a"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "d8aef161d7cb4897d793"; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentParents = []; // eslint-disable-line no-unused-vars
 /******/ 	
@@ -574,7 +574,8 @@
 
 	__webpack_require__(1);
 	__webpack_require__(3);
-	module.exports = __webpack_require__(76);
+	__webpack_require__(76);
+	(function webpackMissingModule() { throw new Error("Cannot find module \"build\""); }());
 
 
 /***/ },
